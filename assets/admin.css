@@ -1,0 +1,18 @@
+.twtw-wrap{max-width:1200px}
+.twtw-header{display:flex;align-items:center;gap:16px;background:#fff;border:1px solid #e5e5e5;border-radius:12px;padding:14px 16px;margin:12px 0 16px}
+.twtw-logo{max-height:56px;height:56px;width:auto}
+.twtw-ip{margin:2px 0 0;color:#666}
+.twtw-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.twtw-card{background:#fff;border:1px solid #e5e5e5;border-radius:12px;padding:16px}
+.twtw-inline{display:inline-block;margin-right:8px}
+.twtw-ok{color:#1d7f2a;font-weight:600}
+.twtw-bad{color:#b32d2e;font-weight:600}
+.twtw-muted{color:#666;font-size:12px}
+.twtw-pt{border-top:1px solid #eee;padding-top:12px;margin-top:12px}
+.twtw-check{display:block;margin:6px 0}
+.twtw-select{min-width:320px}
+@media (max-width: 980px){.twtw-grid{grid-template-columns:1fr}.twtw-select{min-width:100%}}
+
+.twtw-subtitle{font-size:13px;color:#444;margin-top:2px}
+.twtw-logo{max-height:56px;height:56px;width:auto}
+.twtw-topbar{margin:8px 0 14px}
